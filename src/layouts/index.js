@@ -13,8 +13,8 @@ injectGlobal`
   }
 
   body {
-    border-top: 5px solid #e74c3c;
-    background: #f5f1f0;
+    border-top: 5px solid #b5d6ff;
+    background: #fffcfc;
   }
 `;
 

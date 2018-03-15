@@ -4,7 +4,7 @@ export default styled.button`
   appearance: none;
   padding: 0.5rem 0.7rem;
   border: none;
-  background: #e74c3c;
+  background: #b5d6ff;
   color: white;
   border-radius: 4px;
   text-transform: uppercase;

@@ -12,13 +12,13 @@ const Logo = styled(Link)`
   font-size: 24px;
   font-weight: bold;
   text-decoration: none;
-  color: #e74c3c;
+  color: #007791;
 `;
 
 const NavItem = styled(Link)`
   display: inline-block;
   margin-right: 1rem;
-  color: #e74c3c;
+  color: #007791;
 
   &:last-of-type {
     margin-right: 0;
